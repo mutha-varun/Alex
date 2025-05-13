@@ -4,3 +4,7 @@ I also made an automation for it to run, which uses the  microphone to listen if
 It can play my playlist on Spotify, message my friends on Instagram, and WhatsApp.
 Opening and closing of apps, searching Wikipedia for information, telling jokes, taking a screenshot, telling me the temperature, translating from Hindi to English, and much more
 
+
+
+https://github.com/user-attachments/assets/1e015ec1-aa8e-42c5-8693-669b78b6e935
+
