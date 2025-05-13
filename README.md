@@ -6,7 +6,7 @@ Opening and closing of apps, searching Wikipedia for information, telling jokes,
 
 
 
-
+## This is the gui window that opens up after authenication
 
 https://github.com/user-attachments/assets/7ae1916d-c762-4b94-97da-6b559acd0b05
 
