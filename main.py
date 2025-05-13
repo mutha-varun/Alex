@@ -438,14 +438,17 @@ while True:
         
     elif 'quit' in query:
         speak("  Always there for you good sir")
+        os.system("pkill "+"Python Launcher")
         break
                 
     elif 'thank' in query:
         speak("  Always there for you good sir")
+        os.system("pkill "+"Python Launcher")
         break
         
     elif 'thanks' in query:
         speak("  Always there for you good sir")
+        os.system("pkill "+"Python Launcher")  
         break
     
     elif "message parth" in query or "text parth" in query:
@@ -483,7 +486,7 @@ while True:
         SpeedTest("3")
     
     elif "send whatsapp" in query:
-        App()
+        WhatsApp()
     
     elif "google search about" in query:
         query = query.replace("google search about", "")
