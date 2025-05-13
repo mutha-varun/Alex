@@ -6,5 +6,12 @@ Opening and closing of apps, searching Wikipedia for information, telling jokes,
 
 
 
-https://github.com/user-attachments/assets/1e015ec1-aa8e-42c5-8693-669b78b6e935
+
+
+https://github.com/user-attachments/assets/7ae1916d-c762-4b94-97da-6b559acd0b05
+
+
+
+
+
 
